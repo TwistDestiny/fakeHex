@@ -1,0 +1,26 @@
+﻿Build started 2019/3/7 23:37:22.
+     1>Project "E:\fakeHex\fakeHex\fakeHex.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\InstallApp\vs2015\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D _WINDOWS /D _CRT_SECURE_NO_WARNINGS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"x64\Release\fakeHex.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc140.pdb" /Gd /TP /errorReport:prompt fakeHex.cpp
+         fakeHex.cpp
+       Link:
+         D:\InstallApp\vs2015\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\fakeHex\x64\Release\fakeHex.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:D:\InstallApp\vs2015\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"E:\fakeHex\x64\Release\fakeHex.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\fakeHex\x64\Release\fakeHex.lib" /MACHINE:X64 x64\Release\fakeHex.res
+         x64\Release\board.obj
+         x64\Release\disjointSets.obj
+         x64\Release\fakeHex.obj
+         x64\Release\fakeHexDlg.obj
+         x64\Release\Node.obj
+         x64\Release\stdafx.obj
+         x64\Release\tool.obj
+         x64\Release\UCTSearch.obj
+         Generating code
+         0 of 1371 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+           0 functions were new in current compilation
+           0 functions had inline decision re-evaluated but remain unchanged
+         Finished generating code
+         fakeHex.vcxproj -> E:\fakeHex\x64\Release\fakeHex.exe
+     1>Done Building Project "E:\fakeHex\fakeHex\fakeHex.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.96
